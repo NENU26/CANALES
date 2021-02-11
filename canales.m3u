@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:-1 ,BOLIVISION
+https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMDkyNzIwLCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTk0Iiwid2hpdGVsaXN0IjpbIjI4MDA6Y2QwOmZmMjc6NDIwMDphOTVlOmY2ZTQ6ZmMzZjplOWZiIl19LCJzaWduYXR1cmUiOiI4N2ViY2UxODEzYjcxMjQwMzQxZWRlMmU1YmRmNmQ1ZjEzZDFiMzA2In0%3D
+
+#EXTINF:-1 ,Canal RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w269562860.m3u8
+
+#EXTINF:-1 ,UPP TV
+https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMDk0MzU1LCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTk0Iiwid2hpdGVsaXN0IjpbIjI4MDA6Y2QwOmZmMjc6NDIwMDphOTVlOmY2ZTQ6ZmMzZjplOWZiIl19LCJzaWduYXR1cmUiOiIxY2Q5ODg2MzZiZDAyYzI5ZGVlMzNlMjNlYjJkNDU1NTMyYThkMWEwIn0%3D
+
+
+#EXTINF:-1 ,UNITEL
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2DQJNi06kclJy-GSTzMwVA)/dm/3/x7wzxiw/d/live-2.m3u8
+
+#EXTINF:-1 ,ATB
+https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
+
+#EXTINF:-1 ,PAT
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/chunklist_w178317320.m3u8
+
+#EXTINF:-1 ,BOLIVIA TV
+https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w916919549.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIxIDI6MTQ6NTcgQU0maGFzaF92YWx1ZT1PNVVjY0lzaVo5bFd4NWNWN0Fkdkx3PT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
+
+#EXTINF:-1 ,PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 ,ATV PERU
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMDk2NjMyLCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTk0Iiwid2hpdGVsaXN0IjpbIjI4MDA6Y2QwOmZmMjc6NDIwMDphOTVlOmY2ZTQ6ZmMzZjplOWZiIl19LCJzaWduYXR1cmUiOiIyYmM5NWJiN2ZhYzcyMjE4Yjg4ZDA1ZGFhNDlkZGU5M2JhNjgxMjYzIn0%3D
+
+#EXTINF:-1 ,UNIVISION
+https://unidfpclnlds151.akamaized.net/linear/hls/pa/event/OB8_g3B_Th2LAr1AVmM4Mw/stream/9ef74503-5683-4216-aa08-e4ef00ec0eb8:BRU/variant/9d3844c067b711bd13eb0ee6565b5a2b/bandwidth/4500000.m3u8?hdntl=exp=1613162307~acl=*~id=50a650a4-16e4-435f-a606-0413dc03290c~data=hdntl~hmac=2bba25c6d522fa8b5b29fd4a37ecb4a40f734db0ba779d0409004dbd32d905f5
+
+#EXTINF:-1 ,TVC ECUADOR
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b898000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMTY0ODEwLCJzZXNzaW9uIjoiNjguMTgzLjE1NS4xODkiLCJ3aGl0ZWxpc3QiOlsiNjguMTgzLjE1NS4xODkiXX0sInNpZ25hdHVyZSI6ImJlNjY4ZWRjYThkODcwYTlhMzNkOTg4MmU1ODU2Y2NiMjBkMTAzZWMifQ%3D%3D
+
+#EXTINF:-1 ,SNT PARAGUAY
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMTY1MDQ5LCJzZXNzaW9uIjoiMTU3LjI0NS4xMzEuMzciLCJ3aGl0ZWxpc3QiOlsiMTU3LjI0NS4xMzEuMzciXX0sInNpZ25hdHVyZSI6IjIyMTg0ODIxNDAyMmU2NmFiOTFlNjgxOGM5YWQ3OTM2ZmQ3MDY2MGIifQ%3D%3D
+
+#EXTINF:-1 ,CANAL 10 NICARAGUA
+https://ni-canal10-canal10-live.ned.media/canal10/smil:canal10.smil/chunklist_b650000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMTY1MjE1LCJzZXNzaW9uIjoiMTkyLjI0MS4xNzEuMTQ0Iiwid2hpdGVsaXN0IjpbIjE5Mi4yNDEuMTcxLjE0NCJdfSwic2lnbmF0dXJlIjoiNTkyZmJmYTJkMjc1NDIyMDUxMTI2N2UwZjc5NTMwZmE4N2FiMDFkOSJ9
+
+
+#EXTINF:-1 ,TOP LATINO TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w2087228782.m3u8
